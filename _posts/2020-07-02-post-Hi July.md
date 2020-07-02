@@ -1,6 +1,6 @@
 ---
 title: "Hi July"
-date: 2020-07-02T17:06:30-04:00
+date: 오후 5:08 2020-07-02
 categories:
   - Blog
 tags:
